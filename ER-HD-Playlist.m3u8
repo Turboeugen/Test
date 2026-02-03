@@ -1,4 +1,4 @@
-#PLAYLIST:ER-HD-Playlist
+PLAYLIST:ER-HD-Playlist
 #HD
 #EXTINF:-1 group-title="HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -70,6 +70,7 @@ https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.m3u8
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="SD" ,ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
+
 
 
 
