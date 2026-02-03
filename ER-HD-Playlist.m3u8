@@ -1,5 +1,5 @@
-###PLAYLIST:ER-HD-Playlist
-###HD
+###PLAYLIST:ER-HD-Playlist###
+
 #EXTINF:-1 group-title="HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="HD",Россия 1 HD
@@ -62,10 +62,11 @@ https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 https://vd.obltv.ru/watch/air_hd.m3u8
 
 ###Резервные
-#EXTINF:-1,Первый канал HD
+#EXTINF:-1  group-title="Резервные",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,НТВ HD
+#EXTINF:-1  group-title="Резервные",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+
 
 
 
