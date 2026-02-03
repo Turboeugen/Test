@@ -1,4 +1,4 @@
-###PLAYLIST:ER-HD-Playlist###
+###ER-HD-Playlist###
 ###HD
 #EXTINF:-1 group-title="HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -136,3 +136,4 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Reserve",ТВ3
 http://95.47.156.60:8000/play/15/index.m3u8
+
