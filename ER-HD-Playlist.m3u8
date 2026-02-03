@@ -1,5 +1,5 @@
 ###PLAYLIST:ER-HD-Playlist###
-
+###HD
 #EXTINF:-1 group-title="HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="HD",Россия 1 HD
@@ -22,6 +22,8 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="HD",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="HD",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="HD",Краснодар HD
 http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
 #EXTINF:-1 group-title="HD",Мир Premium HD
@@ -32,6 +34,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="HD",ВМЕСТЕ:РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="HD",Свое ТВ HD
+http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="HD",Дом Кино Премиум HD
+http://88.135.128.20:8090/domkinopremium/index.m3u8
+
 #EXTINF:-1 group-title="HD",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="HD" ,360° Новости HD
@@ -41,36 +48,91 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HD",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="HD",Наши Города HD
+http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
 
 
 ###SD
-#EXTINF:-1 group-title="SD",4 канал Екатеринбург
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="SD",Наука
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="SD",НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 group-title="SD",Шансон ТВ
-http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
-#EXTINF:-1 group-title="SD",ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 group-title="SD",Россия 1
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="SD",Рен ТВ
+http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="SD",ТВ3
 https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SD",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="SD",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",4 канал Екатеринбург
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="SD",10 канал (Саранск)
+https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
+#EXTINF:-1 group-title="SD",11 канал (Пенза)
+http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 group-title="SD" ,ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 group-title="SD",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 group-title="SD",НТВ Хит
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SD",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="SD",ТНТ
+http://95.47.156.60:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="SD",Время
+http://176.118.197.125/Vremya/index.m3u8
+#EXTINF:-1 group-title="SD",Дом Кино
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="SD",Победа
+http://88.135.128.20:8090/pobeda/index.m3u8
+
+#EXTINF:-1 group-title="SD",Кино ТВ
+http://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 group-title="SD",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="SD",Поехали!
+http://88.135.128.20:8090/poehali/index.m3u8
+#EXTINF:-1 group-title="SD",Пятница!
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="SD",Шансон ТВ
+http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
+
+###НТВ Сериал Каналы
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Пес
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Скорая Помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 
 ###Reserve
-#EXTINF:-1  group-title="Reserve",Первый канал HD
+#EXTINF:-1 group-title="Reserve",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1  group-title="Reserve",НТВ HD
+#EXTINF:-1 group-title="Reserve",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Reserve",Новый Век HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 group-title="Reserve",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Reserve",МИР24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Reserve",НТВ Сериал
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Reserve",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Reserve",ТВ3
+http://95.47.156.60:8000/play/15/index.m3u8
