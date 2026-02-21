@@ -8,7 +8,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="HD",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SD",Пятый канал
-http://95.47.156.60:8000/play/5/index.m3u8
+http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="HD",МТВ HD (Волгоград)
 http://a0925677.xsph.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
 #EXTINF:-1 group-title="HD",Новый Век HD (Тамбов)
@@ -137,5 +137,6 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Reserve",ТВ3
 http://95.47.156.60:8000/play/15/index.m3u8
+
 
 
