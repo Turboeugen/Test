@@ -57,7 +57,7 @@ http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
 #EXTINF:-1 group-title="SD",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="SD",Россия 1
-http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="SD",Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="SD",ТВ3
@@ -137,6 +137,7 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Reserve",ТВ3
 http://95.47.156.60:8000/play/15/index.m3u8
+
 
 
 
