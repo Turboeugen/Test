@@ -38,7 +38,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 group-title="HD",Свое ТВ HD
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="HD",Дом Кино Премиум HD
-http://88.135.128.20:8090/domkinopremium/index.m3u8
+
 
 #EXTINF:-1 group-title="HD",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -61,7 +61,7 @@ http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="SD",Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="SD",ТВ3
-https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SD",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="SD",ТВ Центр
@@ -79,15 +79,15 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="SD",НТВ Хит
 http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SD",СТС
-http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+
 #EXTINF:-1 group-title="SD",ТНТ
-http://95.47.156.60:8000/play/19/index.m3u8
+
 #EXTINF:-1 group-title="SD",Время
 http://176.118.197.125/Vremya/index.m3u8
 #EXTINF:-1 group-title="SD",Дом Кино
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 #EXTINF:-1 group-title="SD",Победа
-http://88.135.128.20:8090/pobeda/index.m3u8
+
 
 #EXTINF:-1 group-title="SD",Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
@@ -95,9 +95,9 @@ http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="SD",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="SD",Поехали!
-http://88.135.128.20:8090/poehali/index.m3u8
+
 #EXTINF:-1 group-title="SD",Пятница!
-http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+
 
 #EXTINF:-1 group-title="SD",Шансон ТВ
 http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
@@ -137,6 +137,7 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Reserve",ТВ3
 http://95.47.156.60:8000/play/15/index.m3u8
+
 
 
 
