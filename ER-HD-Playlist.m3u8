@@ -27,8 +27,10 @@ http://85.25.46.88:8000/play/27/index.m3u8
 http://85.25.46.88:8000/play/28/index.m3u8
 #EXTINF:-1 group-title="HD",Краснодар HD
 http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
-#EXTINF:-1 group-title="HD",Мир Premium HD
+#EXTINF:-1 group-title="HD",Дом Кино Премиум HD
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+#EXTINF:-1 group-title="HD",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="HD",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="HD",С1 Сургут HD
@@ -37,7 +39,6 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="HD",Свое ТВ HD
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="HD",Дом Кино Премиум HD
 
 
 #EXTINF:-1 group-title="HD",Известия ТВ HD
@@ -51,11 +52,19 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HD",Наши Города HD
 http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
+#EXTINF:-1 group-title="SD",Моя Планета
+http://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="SD",Глазами Туриста
+https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 
 
 ###SD
-#EXTINF:-1 group-title="SD",Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="SD",Рен ТВ
+http://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 group-title="SD",ТВ3
+http://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 group-title="SD",СТС
+http://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 group-title="SD",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SD",4 канал Екатеринбург
@@ -66,32 +75,23 @@ https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 group-title="SD" ,ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
-
+#EXTINF:-1 group-title="SD",Дом Кино
+https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
+#EXTINF:-1 group-title="SD",Время
+http://fs.uplink.kz/vremya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="SD",Победа
+http://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="SD",Кино ТВ
+http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="SD",Первый канал
 
 #EXTINF:-1 group-title="SD",Россия 1
-
-#EXTINF:-1 group-title="SD",Рен ТВ
-
-#EXTINF:-1 group-title="SD",ТВ3
 
 #EXTINF:-1 group-title="SD",НТВ Сериал
 
 #EXTINF:-1 group-title="SD",НТВ Хит
 
-#EXTINF:-1 group-title="SD",СТС
-
 #EXTINF:-1 group-title="SD",ТНТ
-
-#EXTINF:-1 group-title="SD",Время
-
-#EXTINF:-1 group-title="SD",Дом Кино
-
-#EXTINF:-1 group-title="SD",Победа
-
-
-#EXTINF:-1 group-title="SD",Кино ТВ
-
 
 #EXTINF:-1 group-title="SD",Наука
 
@@ -126,6 +126,8 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Reserve",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SD",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Reserve",Новый Век HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 group-title="Reserve",МИР HD
