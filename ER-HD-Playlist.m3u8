@@ -42,7 +42,6 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 group-title="HD",Свое ТВ
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
 
-
 #EXTINF:-1 group-title="HD",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="HD" ,360° Новости HD
@@ -58,7 +57,6 @@ http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
 http://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 group-title="SD",Глазами Туриста
 https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
-
 
 ###SD
 #EXTINF:-1 group-title="SD",Рен ТВ
@@ -103,9 +101,8 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 http://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="SD",Пятница!
 http://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
-
 #EXTINF:-1 group-title="SD",Шансон ТВ
-
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 ###НТВ Сериал Каналы
 #EXTINF:-1 group-title="НТВ Сериал Каналы",НТВ Балабол
@@ -138,7 +135,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Reserve",МИР24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Reserve",НТВ Сериал
 
 #EXTINF:-1 group-title="Reserve",Россия 1
 
