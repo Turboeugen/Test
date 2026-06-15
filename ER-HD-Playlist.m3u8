@@ -11,9 +11,9 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="SD",МТВ Волгоград
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HD",Новый Век HD (Тамбов)
+#EXTINF:-1 group-title="HD",Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 group-title="HD",Енисей HD (Красноярск)
+#EXTINF:-1 group-title="HD",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="SD",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
@@ -37,11 +37,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="HD",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="HD",Свое ТВ HD
+#EXTINF:-1 group-title="HD",Свое ТВ
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 group-title="HD",Известия ТВ HD
+#EXTINF:-1 group-title="HD",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="HD" ,360° Новости HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
