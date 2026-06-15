@@ -7,6 +7,8 @@ https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="HD",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="HD",ТНТ HD
+http://cdn.kubteltv.workers.dev/?ID=373
 #EXTINF:-1 group-title="SD",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="SD",МТВ Волгоград
@@ -95,10 +97,12 @@ http://194.152.35.17/kino-tv/index.m3u8
 
 #EXTINF:-1 group-title="SD",Наука
 
+#EXTINF:-1 group-title="SD",Наша Тема
+http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="SD",Поехали!
-
+http://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="SD",Пятница!
-
+http://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
 
 #EXTINF:-1 group-title="SD",Шансон ТВ
 
