@@ -8,14 +8,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="HD",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="HD",ТНТ HD
-http://cdn.kubteltv.workers.dev/?ID=373
+http://85.25.46.88:8000/play/31/index.m3u8
 #EXTINF:-1 group-title="SD",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="SD",МТВ Волгоград
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HD",Новый Век
+#EXTINF:-1 group-title="HD",Новый Век HD (Тамбов)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 group-title="HD",Енисей
+#EXTINF:-1 group-title="HD",Енисей HD (Красноярск)
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="SD",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
@@ -83,17 +83,6 @@ http://fs.uplink.kz/vremya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="SD",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="SD",Первый канал
-
-#EXTINF:-1 group-title="SD",Россия 1
-
-#EXTINF:-1 group-title="SD",НТВ Сериал
-
-#EXTINF:-1 group-title="SD",НТВ Хит
-
-#EXTINF:-1 group-title="SD",ТНТ
-
-#EXTINF:-1 group-title="SD",Наука
 
 #EXTINF:-1 group-title="SD",Наша Тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
@@ -136,9 +125,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Reserve",МИР24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Reserve",Россия 1
-
-#EXTINF:-1 group-title="Reserve",ТВ3
 
 
 
