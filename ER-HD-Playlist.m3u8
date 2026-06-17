@@ -119,10 +119,6 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 http://dmi3y-tv.online/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
 http://dmi3y-tv.online/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО HD
-http://dmi3y-tv.online/hls/CH_TV1000RUSSKOEKINOHD.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION HD
-http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
 
 ###Reserve
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Reserve",Первый канал HD
