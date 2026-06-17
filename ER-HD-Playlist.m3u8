@@ -39,7 +39,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="HD",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="HD",Своё ТВ HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="HD",Своё ТВ HD (Ставрополь)
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="HD",Известия ТВ
@@ -119,12 +119,10 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 http://dmi3y-tv.online/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
 http://dmi3y-tv.online/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="КИНО И СЕРИАЛЫ",TV1000 HD
-http://dmi3y-tv.online/hls/CH_TV1000HD.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION HD
-http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО HD
 http://dmi3y-tv.online/hls/CH_TV1000RUSSKOEKINOHD.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION HD
+http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
 
 ###Reserve
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Reserve",Первый канал HD
