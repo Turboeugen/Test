@@ -125,7 +125,7 @@ http://dmi3y-tv.online/hls/CH_NTVHIT.m3u8
 http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Reserve",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="SD",Астрахань 24
+#EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://epg.iptvx.one/picons/astraxan24.png" group-title="SD",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Reserve",Новый Век HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
