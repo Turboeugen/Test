@@ -11,7 +11,7 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 http://85.25.46.88:8000/play/31/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="SD",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="SD",МТВ Волгоград
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epg.iptvx.one/picons/mtv-volgograd.png" group-title="SD",МТВ Волгоград
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="HD",Новый Век HD (Тамбов)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
@@ -25,21 +25,21 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="SD",Звезда
 http://85.25.46.88:8000/play/27/index.m3u8
-#EXTINF:-1 group-title="HD",Звезда Плюс HD
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epg.iptvx.one/picons/zvezda-plus.png" group-title="HD",Звезда Плюс HD
 http://85.25.46.88:8000/play/28/index.m3u8
-#EXTINF:-1 group-title="HD",Краснодар HD
+#EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://epg.iptvx.one/picons/krasnodar.png" group-title="HD",Краснодар HD
 http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
-#EXTINF:-1 group-title="HD",Дом Кино Премиум HD
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" group-title="HD",Дом Кино Премиум HD
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="HD",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="HD",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="HD",С1 Сургут HD
+#EXTINF:-1 tvg-id="s1-surgut" tvg-logo="https://epg.iptvx.one/picons/s1-surgut.png" group-title="HD",С1 Сургут HD
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="HD",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="HD",Своё ТВ HD (Ставрополь)
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://epg.iptvx.one/picons/svoyo-tv-stavropol.png" group-title="HD",Своё ТВ HD (Ставрополь)
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="HD",Известия ТВ
@@ -55,7 +55,7 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="SD",Моя Планета
 http://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 group-title="SD",Глазами Туриста
+#EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="https://epg.iptvx.one/picons/glazami-turista-4k.png" group-title="SD",Глазами Туриста
 https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="HD",НАША СИБИРЬ HD
 http://dmi3y-tv.online/hls/CH_NASHA_SIBIRHD.m3u8
@@ -69,11 +69,11 @@ http://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
 http://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="SD",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="SD",4 канал Екатеринбург
+#EXTINF:-1 tvg-id="4kanal-piatnica" tvg-logo="https://epg.iptvx.one/picons/4kanal-piatnica.png" group-title="SD",4 канал Екатеринбург
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="SD",10 канал (Саранск)
+#EXTINF:-1 tvg-id="10-rentv" tvg-logo="https://epg.iptvx.one/picons/10-rentv.png" group-title="SD",10 канал (Саранск)
 https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
-#EXTINF:-1 group-title="SD",11 канал (Пенза)
+#EXTINF:-1 tvg-id="11kanal" tvg-logo="https://epg.iptvx.one/picons/11kanal.png" group-title="SD",11 канал (Пенза)
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="SD" ,ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
@@ -83,13 +83,13 @@ https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
 http://fs.uplink.kz/vremya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="SD",Победа
 http://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="SD",Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" group-title="SD",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="SD",Наша Тема
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" group-title="SD",Наша Тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 group-title="SD",Поехали!
+#EXTINF:-1 tvg-id="poexali" tvg-logo="https://epg.iptvx.one/picons/poexali.png" group-title="SD",Поехали!
 http://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="SD",Пятница!
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epg.iptvx.one/picons/piatnica.png" group-title="SD",Пятница!
 http://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="SD",Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -127,14 +127,15 @@ http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="SD",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Reserve",Новый Век HD
+#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Reserve",Новый Век HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Reserve",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Reserve",МИР24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-
+###tvg-logo=""
+###https://epg.iptvx.one/picons/
 
 
 
