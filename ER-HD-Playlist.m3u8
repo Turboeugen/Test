@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #ER-HD-Playlist
-###HD
+
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="HD",Россия 1 HD
@@ -60,7 +60,7 @@ https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="HD",НАША СИБИРЬ HD
 http://dmi3y-tv.online/hls/CH_NASHA_SIBIRHD.m3u8
 
-###SD
+
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/18.png" group-title="SD",Рен ТВ
 http://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="SD",ТВ3
@@ -96,7 +96,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="SD",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
-###НТВ Сериал Каналы
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png" group-title="НТВ Сериал Каналы",НТВ Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png" group-title="НТВ Сериал Каналы",НТВ Невский
@@ -114,13 +114,13 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png" group-title="НТВ Сериал Каналы",НТВ Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 
-###КИНО И СЕРИАЛЫ
+
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
 http://dmi3y-tv.online/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
 http://dmi3y-tv.online/hls/CH_NTVHIT.m3u8
 
-###Reserve
+
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Reserve",Первый канал HD
 http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Reserve",НТВ HD
