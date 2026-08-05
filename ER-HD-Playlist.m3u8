@@ -8,7 +8,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="HD",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="HD",ТНТ HD
-http://85.25.46.88:8000/play/31/index.m3u8
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="SD",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epg.iptvx.one/picons/mtv-volgograd.png" group-title="SD",МТВ Волгоград
@@ -24,9 +24,9 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="HD",Астрахань 24 HD
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="SD",Звезда
-http://85.25.46.88:8000/play/27/index.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epg.iptvx.one/picons/zvezda-plus.png" group-title="HD",Звезда Плюс HD
-http://85.25.46.88:8000/play/28/index.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://epg.iptvx.one/picons/krasnodar.png" group-title="HD",Краснодар HD
 http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" group-title="HD",Дом Кино Премиум HD
