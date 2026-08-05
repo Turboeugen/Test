@@ -14,7 +14,7 @@ http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epg.iptvx.one/picons/mtv-volgograd.png" group-title="SD",МТВ Волгоград
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="HD",Новый Век HD (Тамбов)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+https://rutube.ru/video/7748a2530116682fa185a156ce1d09a3/?r=plemwd
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="HD",Енисей HD (Красноярск)
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://iptvx.one/picons/volga.png" group-title="SD",Волга
