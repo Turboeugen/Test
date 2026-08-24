@@ -24,7 +24,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="HD",Астрахань 24 HD
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="SD",Звезда
-http://fs.uplink.kz/zvezda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://193.25.8.59:8000/zvezda
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epg.iptvx.one/picons/zvezda-plus.png" group-title="HD",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://epg.iptvx.one/picons/krasnodar.png" group-title="HD",Краснодар HD
